@@ -1,6 +1,3 @@
-Team Members:
-1)Chinmay Mandale (1001995246)
-2)Rohit Padwal (1001833828)
 
 ======================================
 
